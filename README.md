@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/84547874.svg)](https://zenodo.org/badge/latestdoi/84547874)
+
 Introduction
 ============
 Within this archive you find the replication package for the paper [Hidden Markov Models for the Prediction of Developer Involvement Dynamics and Workload](https://doi.org/10.1145/2972958.2972960) by Verena Honsel, Steffen Herbold, and Jens Grabowski published in the proceedings of the Proceeding
